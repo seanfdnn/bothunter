@@ -12,8 +12,6 @@ bearer_token = config['Twitter']['BEARER_TOKEN']
 
 client = tweepy.Client(bearer_token, wait_on_rate_limit=True)
 
-USERNAME = 'rachelnotley'
-
 TODAY = datetime.utcnow()
 
 # Which fields to track for a user
