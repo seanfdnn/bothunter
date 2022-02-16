@@ -1,4 +1,4 @@
-# Twitter Bot Finder
+# Twitter Bot Hunter
 This repository contains Python scripts for running useful commands against the Twitter API for conducting research on bot farms.
 
 # Prerequisites
@@ -8,7 +8,7 @@ This repository contains Python scripts for running useful commands against the 
 
 ## Getting Started
 * Clone this repository
-* Change to this directory `cd botfinder`
+* Change to this directory `cd bothunter`
 * Run `pipenv install` to install all Python dependencies
 * Create a `config.ini` file with the Twitter API Bearer token:
 ```
